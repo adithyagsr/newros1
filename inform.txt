@@ -1,0 +1,2 @@
+vmware ubuntu
+pw   ubuntu007
